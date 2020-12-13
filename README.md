@@ -6,6 +6,8 @@ The purpose of this analysis was to utilize JavaScript, HTML and Bootstrap to cr
 ## Results:
 In order to perform a search, one can type a date, city, state, country, or shape into one of the boxes underneath the “Filter Search” header. In the screenshot below, the data was filtered on the date: 1/1/2010, the city: el cajon, and the shape: triangle. 
 
+![Filter Search](/Filter_Search.png)
+
 
 ## Summary: 
 
